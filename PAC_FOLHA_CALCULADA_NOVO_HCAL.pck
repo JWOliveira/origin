@@ -760,6 +760,8 @@ CREATE OR REPLACE PACKAGE user_ipesp.PAC_FOLHA_CALCULADA_NOVO_HCAL is
   V_VAL_CORRECAO_PARC      NUMBER;
   V_DAT_MINIMA_CORRECAO    DATE;
   V_DAT_MAXIMA_CORRECAO    DATE;
+------- Bloque de Variaveis de Controle
+ ws_cnt_pagamamentos      NUMBER; ---- 16/10/2018
 
   -- Cursor contendo os beneficio que possuem parcelamento agrupados por prioridade
   CURSOR CUR_BENPARC IS
