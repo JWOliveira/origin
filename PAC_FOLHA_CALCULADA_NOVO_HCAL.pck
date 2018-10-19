@@ -3,7 +3,7 @@ CREATE OR REPLACE PACKAGE user_ipesp.PAC_FOLHA_CALCULADA_NOVO_HCAL is
   -- Created     : 1/01/2009 - ACT: 31-11-2011
   -- Atualizac?o : 15/08/2014
   -- Purpose     : Processamento da folha calculada
-  -- Versão de Homologação 19-10-2018 --- Em atualização II
+  -- Versão de Homologação 19-10-2018 --- Nuevo Brach de Homologação 
   ------------------------------------------------------------
   -- Alteracao : 15/08/2014 -  JTS - Controle de CIP
   ------------------------------------------------------------
